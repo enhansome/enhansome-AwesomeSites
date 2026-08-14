@@ -48,7 +48,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/giftfinder-dolcegabbana.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/e-commerce/giftfinder.dolcegabbana.com) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2024-01-29
+[![](./screenshot/windflower.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/wildflower.resn.co.nz) ⭐ 50 | 🐛 0 | 🌐 JavaScript | 📅 2024-01-29
 
 ## Index
 
@@ -158,4 +158,4 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
