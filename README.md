@@ -48,7 +48,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/spherevegas.online.jpg)](https://spherevegas.online)
+[![](./screenshot/theperfumeshop.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/e-commerce/www.theperfumeshop.com) ⭐ 17 | 🐛 1 | 🌐 JavaScript | 📅 2024-03-27
 
 ## Index
 
