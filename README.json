@@ -1,89 +1,9 @@
 {
-  "items": [
-    {
-      "description": "Every collected websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server (e.g. ) to run the website offline.\nfor example",
-      "items": [],
-      "title": "Usage"
-    },
-    {
-      "description": "All website files come from the browser's cache without any hacking techniques. Please do not use any content for your commercial projects. All legal responsibilities arising therefrom shall be borne by the user.",
-      "items": [],
-      "title": "Notice"
-    },
-    {
-      "description": "If you have any fascinating websites you want to backup, please let me know and I can crawl them down for you.",
-      "items": [],
-      "title": "Contact"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Daily Show"
-    },
-    {
-      "description": "· Metaverse · Game · Room · Car · Exhibition · Portfolio · E-Commerce · Space · Other ·",
-      "items": [],
-      "title": "Index"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Car"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Exhibition"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Portfolio"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Metaverse"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Room"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "E-Commerce"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Game"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Space"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Others"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Only4Mobile"
-    },
-    {
-      "description": "https://github.com/ezshine/AwesomeSites-Pack01\nhttps://github.com/ezshine/AwesomeSites-Pack02\nhttps://github.com/ezshine/AwesomeSites-Pack03\nhttps://github.com/ezshine/AwesomeSites-Pack04\nhttps://github.com/ezshine/AwesomeSites-Pack05\nhttps://github.com/ezshine/AwesomeSites-Pack06",
-      "items": [],
-      "title": "Packs"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T21:33:26.310Z",
+    "last_updated": "2026-08-19T12:12:49.661Z",
     "original_repository": "ezshine/AwesomeSites",
+    "original_repository_id": 498940433,
     "original_repository_sha": "1103f09a580118f83904923921cf9005037cfab1",
     "enhanced_repository": "enhansome/enhansome-AwesomeSites",
     "enhanced_repository_description": null,
