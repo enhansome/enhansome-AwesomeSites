@@ -48,7 +48,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/thepleasurepursuit.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/www.thepleasurepursuit.com) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2024-02-17
+[![](./screenshot/windflower.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/wildflower.resn.co.nz) ⭐ 50 | 🐛 0 | 🌐 JavaScript | 📅 2024-01-29
 
 ## Index
 
@@ -158,4 +158,4 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
