@@ -48,7 +48,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/lr-doesbook.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/lr.doesbook.kr/en) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2024-02-17
+[![](./screenshot/alexanderperrin-shorttrip.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/alexanderperrin.com.au) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2024-01-29
 
 ## Index
 
