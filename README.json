@@ -2043,7 +2043,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/ezshine/AwesomeSites-Pack01",
+          "title": "ezshine/AwesomeSites-Pack01",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2058,7 +2058,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ezshine/AwesomeSites-Pack02",
+          "title": "ezshine/AwesomeSites-Pack02",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2073,7 +2073,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ezshine/AwesomeSites-Pack03",
+          "title": "ezshine/AwesomeSites-Pack03",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2088,7 +2088,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ezshine/AwesomeSites-Pack04",
+          "title": "ezshine/AwesomeSites-Pack04",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2103,7 +2103,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ezshine/AwesomeSites-Pack05",
+          "title": "ezshine/AwesomeSites-Pack05",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2118,7 +2118,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ezshine/AwesomeSites-Pack06",
+          "title": "ezshine/AwesomeSites-Pack06",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2136,7 +2136,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:38:17.418Z",
+    "last_updated": "2026-08-25T05:59:34.052Z",
     "original_repository": "ezshine/AwesomeSites",
     "original_repository_id": 498940433,
     "original_repository_sha": "684ab68badff202f76c716a4d35dc225db75faa6",
