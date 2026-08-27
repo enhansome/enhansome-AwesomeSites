@@ -48,7 +48,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/noomobeat.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/other/beat.noomoagency.com) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-12
+[![](./screenshot/qqpvp6749.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/other/pvp.qq.com) ⭐ 17 | 🐛 1 | 🌐 JavaScript | 📅 2024-03-27
 
 ## Index
 
@@ -158,4 +158,4 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
