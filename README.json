@@ -2136,9 +2136,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:39:40.296Z",
-    "original_repository": "ezshine/AwesomeSites",
-    "original_repository_id": 498940433,
+    "last_updated": "2026-08-27T11:25:19.382Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 498940433,
+      "language": "JavaScript",
+      "last_commit": "2026-08-26T16:42:22Z",
+      "owner": "ezshine",
+      "repo": "AwesomeSites",
+      "stars": 2008
+    },
     "original_repository_sha": "5a213dbd73a85e28952f8d9296442c43c8f1530a",
     "enhanced_repository": "enhansome/enhansome-AwesomeSites",
     "enhanced_repository_description": null,
