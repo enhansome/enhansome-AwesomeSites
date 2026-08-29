@@ -12,12 +12,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -28,12 +36,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -44,12 +60,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -60,12 +84,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -76,12 +108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 727710955,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-01-29T01:12:44Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack05",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -92,12 +129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -108,12 +150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 782765828,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-12T00:03:38Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack06",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -124,12 +171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 782765828,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-12T00:03:38Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack06",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             }
@@ -147,12 +199,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 576432291,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-10T18:35:10Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-iconicmints.wsjbarrons.com",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -163,12 +220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "同济大学设计创意学院2022毕展",
+                "homepage": "https://awesome-sites-tjdi-exhibition.vercel.app",
                 "id": 536854369,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-09-15T06:44:44Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-tjdi-exhibition",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -179,12 +241,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -195,12 +265,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 518911077,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-17T22:55:58Z",
+                "open_issues": 2,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack02",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -211,12 +286,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -227,12 +307,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 727710955,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-01-29T01:12:44Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack05",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             }
@@ -250,12 +335,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -266,12 +359,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -282,12 +383,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -298,12 +407,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -314,12 +431,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -330,12 +452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 568201885,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-21T18:16:01Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack03",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -346,12 +473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 568201885,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-21T18:16:01Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack03",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -362,12 +494,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 568201885,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-21T18:16:01Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack03",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -378,12 +515,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -394,12 +536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -410,12 +557,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -426,12 +578,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -442,12 +599,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -458,12 +620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -474,12 +641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 782765828,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-12T00:03:38Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack06",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -490,12 +662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 782765828,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-12T00:03:38Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack06",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -506,12 +683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 782765828,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-12T00:03:38Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack06",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -522,12 +704,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 782765828,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-12T00:03:38Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack06",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             }
@@ -545,12 +732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 568201885,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-21T18:16:01Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack03",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -561,12 +753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 568201885,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-21T18:16:01Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack03",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -577,12 +774,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-douyin-carnival-2022.vercel.app",
                 "id": 562512402,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-11-09T04:43:12Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-douyin_carnival_2022",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -593,12 +795,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 575036476,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-06T17:11:19Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-icbc-bj-metaverse",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -609,12 +816,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 568201885,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-21T18:16:01Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack03",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -625,12 +837,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 782765828,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-12T00:03:38Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack06",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -641,12 +858,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 782765828,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-12T00:03:38Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack06",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             }
@@ -664,12 +886,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 518911077,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-17T22:55:58Z",
+                "open_issues": 2,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack02",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -680,12 +907,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -696,12 +931,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -712,12 +955,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             }
@@ -735,12 +986,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -751,12 +1010,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -767,12 +1034,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 518911077,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-17T22:55:58Z",
+                "open_issues": 2,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack02",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -783,12 +1055,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -799,12 +1079,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 564620732,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-12-09T09:15:43Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-themagicalpantry.com",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -815,12 +1100,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -831,12 +1124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 518911077,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-17T22:55:58Z",
+                "open_issues": 2,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack02",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -847,12 +1145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 568201885,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-21T18:16:01Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack03",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -863,12 +1166,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 568201885,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-21T18:16:01Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack03",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -879,12 +1187,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -895,12 +1208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 727710955,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-01-29T01:12:44Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack05",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -911,12 +1229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 727710955,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-01-29T01:12:44Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack05",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             }
@@ -934,12 +1257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 518911077,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-17T22:55:58Z",
+                "open_issues": 2,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack02",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -950,12 +1278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 518911077,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-17T22:55:58Z",
+                "open_issues": 2,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack02",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -966,12 +1299,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 518911077,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-17T22:55:58Z",
+                "open_issues": 2,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack02",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -982,12 +1320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 518911077,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-17T22:55:58Z",
+                "open_issues": 2,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack02",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -998,12 +1341,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1014,12 +1365,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1030,12 +1389,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1046,12 +1413,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1062,12 +1437,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1078,12 +1461,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1094,12 +1485,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1110,12 +1509,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1126,12 +1533,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 568201885,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-21T18:16:01Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack03",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1142,12 +1554,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1158,12 +1575,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1174,12 +1596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1190,12 +1617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1206,12 +1638,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1222,12 +1659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1238,12 +1680,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://awesome-sites-pack04.vercel.app",
                 "id": 581010644,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T13:26:14Z",
+                "open_issues": 1,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack04",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1254,12 +1701,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 727728049,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-12-05T13:11:53Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-esteelauderanrcade",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1270,12 +1722,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 727710955,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-01-29T01:12:44Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack05",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1286,12 +1743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 727710955,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-01-29T01:12:44Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack05",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1302,12 +1764,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 727710955,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-01-29T01:12:44Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack05",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1318,12 +1785,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 727710955,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-01-29T01:12:44Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack05",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1334,12 +1806,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 727710955,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-01-29T01:12:44Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack05",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1350,12 +1827,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 518911077,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-17T22:55:58Z",
+                "open_issues": 2,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack02",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1366,12 +1848,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 782765828,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-12T00:03:38Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack06",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1382,12 +1869,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500688275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-29T13:27:50Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack01",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "awesomesite",
+                  "awesomesites"
+                ]
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1398,12 +1893,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 782765828,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-12T00:03:38Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack06",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             },
@@ -1414,12 +1914,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 782765828,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-12T00:03:38Z",
+                "open_issues": 0,
                 "owner": "ezshine",
                 "repo": "AwesomeSites-Pack06",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:29.382Z"
             }
@@ -1441,12 +1946,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://awesome-sites-pack04.vercel.app",
             "id": 581010644,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-27T13:26:14Z",
+            "open_issues": 1,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack04",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1457,12 +1967,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 500688275,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-01-29T13:27:50Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack01",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "awesomesite",
+              "awesomesites"
+            ]
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1473,12 +1991,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 498940742,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-07-24T09:20:01Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-leap-for-mankind.com",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1489,12 +2012,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 500688275,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-01-29T13:27:50Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack01",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "awesomesite",
+              "awesomesites"
+            ]
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1505,12 +2036,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 568201885,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-21T18:16:01Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack03",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1521,12 +2057,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 727710955,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-01-29T01:12:44Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack05",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1537,12 +2078,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 727710955,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-01-29T01:12:44Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack05",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         }
@@ -1559,12 +2105,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 500688275,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-01-29T13:27:50Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack01",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "awesomesite",
+              "awesomesites"
+            ]
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1575,12 +2129,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 500688275,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-01-29T13:27:50Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack01",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "awesomesite",
+              "awesomesites"
+            ]
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1591,12 +2153,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 500688275,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-01-29T13:27:50Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack01",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "awesomesite",
+              "awesomesites"
+            ]
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1607,12 +2177,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 500688275,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-01-29T13:27:50Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack01",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "awesomesite",
+              "awesomesites"
+            ]
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1623,12 +2201,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 500688275,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-01-29T13:27:50Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack01",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "awesomesite",
+              "awesomesites"
+            ]
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1639,12 +2225,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 500688275,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-01-29T13:27:50Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack01",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "awesomesite",
+              "awesomesites"
+            ]
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1655,12 +2249,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 500688275,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-01-29T13:27:50Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack01",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "awesomesite",
+              "awesomesites"
+            ]
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1671,12 +2273,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 500688275,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-01-29T13:27:50Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack01",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "awesomesite",
+              "awesomesites"
+            ]
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1687,12 +2297,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 500688275,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-01-29T13:27:50Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack01",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "awesomesite",
+              "awesomesites"
+            ]
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1703,12 +2321,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 518911077,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-17T22:55:58Z",
+            "open_issues": 2,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack02",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1719,12 +2342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 499019508,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-07-24T09:19:41Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-persepolis.getty.edu",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1735,12 +2363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 514400761,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-08-11T12:54:47Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-dddance.party",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1751,12 +2384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 518911077,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-17T22:55:58Z",
+            "open_issues": 2,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack02",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1767,12 +2405,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 518911077,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-17T22:55:58Z",
+            "open_issues": 2,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack02",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1783,12 +2426,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 518911077,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-17T22:55:58Z",
+            "open_issues": 2,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack02",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1799,12 +2447,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 518911077,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-17T22:55:58Z",
+            "open_issues": 2,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack02",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1815,12 +2468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 568201885,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-21T18:16:01Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack03",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1831,12 +2489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 568201885,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-21T18:16:01Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack03",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1847,12 +2510,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 568201885,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-21T18:16:01Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack03",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1863,12 +2531,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 568201885,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-21T18:16:01Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack03",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1879,12 +2552,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://awesome-sites-pack04.vercel.app",
             "id": 581010644,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-27T13:26:14Z",
+            "open_issues": 1,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack04",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1895,12 +2573,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://awesome-sites-pack04.vercel.app",
             "id": 581010644,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-27T13:26:14Z",
+            "open_issues": 1,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack04",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1911,12 +2594,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://awesome-sites-pack04.vercel.app",
             "id": 581010644,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-27T13:26:14Z",
+            "open_issues": 1,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack04",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1927,12 +2615,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://awesome-sites-pack04.vercel.app",
             "id": 581010644,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-27T13:26:14Z",
+            "open_issues": 1,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack04",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1943,12 +2636,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://awesome-sites-pack04.vercel.app",
             "id": 581010644,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-27T13:26:14Z",
+            "open_issues": 1,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack04",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1959,12 +2657,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 727710955,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-01-29T01:12:44Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack05",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1975,12 +2678,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 727710955,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-01-29T01:12:44Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack05",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -1991,12 +2699,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 727710955,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-01-29T01:12:44Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack05",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -2007,12 +2720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 729718302,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-12-10T06:10:18Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-poor-charlies-almanack",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -2023,12 +2741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 782765828,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-12T00:03:38Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack06",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -2039,12 +2762,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 782765828,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-12T00:03:38Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack06",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -2055,12 +2783,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 782765828,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-12T00:03:38Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack06",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -2071,12 +2804,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 782765828,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-12T00:03:38Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack06",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -2087,12 +2825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 782765828,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-12T00:03:38Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack06",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         }
@@ -2109,12 +2852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 518911077,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-17T22:55:58Z",
+            "open_issues": 2,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack02",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -2125,12 +2873,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 518911077,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-17T22:55:58Z",
+            "open_issues": 2,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack02",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -2141,12 +2894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://awesome-sites-pack04.vercel.app",
             "id": 581010644,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-27T13:26:14Z",
+            "open_issues": 1,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack04",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -2157,12 +2915,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://awesome-sites-pack04.vercel.app",
             "id": 581010644,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-27T13:26:14Z",
+            "open_issues": 1,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack04",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         }
@@ -2179,12 +2942,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 500688275,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-01-29T13:27:50Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack01",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "awesomesite",
+              "awesomesites"
+            ]
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -2195,12 +2966,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 518911077,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-17T22:55:58Z",
+            "open_issues": 2,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack02",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -2211,12 +2987,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 568201885,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-21T18:16:01Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack03",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -2227,12 +3008,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://awesome-sites-pack04.vercel.app",
             "id": 581010644,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-27T13:26:14Z",
+            "open_issues": 1,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack04",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -2243,12 +3029,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 727710955,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-01-29T01:12:44Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack05",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         },
@@ -2259,12 +3050,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 782765828,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-12T00:03:38Z",
+            "open_issues": 0,
             "owner": "ezshine",
             "repo": "AwesomeSites-Pack06",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:29.382Z"
         }
@@ -2273,15 +3069,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:08:19.329Z",
+    "last_updated": "2026-08-29T04:27:50.170Z",
     "original_repository_info": {
       "archived": false,
+      "description": "every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the website offline.",
+      "homepage": null,
       "id": 498940433,
       "language": "JavaScript",
+      "license": "MIT",
       "last_commit": "2026-08-29T00:18:28Z",
+      "open_issues": 2,
       "owner": "ezshine",
       "repo": "AwesomeSites",
-      "stars": 2009
+      "stars": 2009,
+      "topics": [
+        "awesomesite",
+        "awesomesites",
+        "frontend",
+        "html",
+        "javascript",
+        "website"
+      ]
     },
     "original_repository_sha": "a6f2e99220a84327a920512bef0be8b197013424",
     "enhanced_repository": "enhansome/enhansome-AwesomeSites",
