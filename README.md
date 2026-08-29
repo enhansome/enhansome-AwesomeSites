@@ -48,7 +48,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/lr-doesbook.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/lr.doesbook.kr/en) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2024-02-17
+[![](./screenshot/out-of-doors-lostmechanics.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/out-of-doors.lostmechanics.com) ⭐ 17 | 🐛 1 | 🌐 JavaScript | 📅 2024-03-27
 
 ## Index
 
