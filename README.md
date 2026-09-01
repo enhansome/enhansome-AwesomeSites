@@ -48,7 +48,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/leap-for-mankind.jpg)](https://github.com/ezshine/AwesomeSites-leap-for-mankind.com) ⭐ 7 | 🐛 0 | 🌐 HTML | 📅 2022-07-24
+[![](./screenshot/cleoshow.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/others/cleo.show) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-21
 
 ## Index
 
@@ -158,4 +158,4 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
