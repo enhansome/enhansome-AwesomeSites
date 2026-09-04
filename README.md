@@ -48,7 +48,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/girlswhocodegirls.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/tools/www.girlswhocodegirls.com) ⭐ 17 | 🐛 1 | 🌐 JavaScript | 📅 2024-03-27
+[![](./screenshot/media-facade-shiftlink.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/media-facade.shiftlink.tech) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2024-02-17
 
 ## Index
 
@@ -158,4 +158,4 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

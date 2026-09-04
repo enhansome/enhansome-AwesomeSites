@@ -3069,7 +3069,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:13:33.808Z",
+    "last_updated": "2026-09-04T22:59:41.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the website offline.",
@@ -3077,11 +3077,11 @@
       "id": 498940433,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-09-03T19:00:25Z",
+      "last_commit": "2026-09-04T18:44:18Z",
       "open_issues": 3,
       "owner": "ezshine",
       "repo": "AwesomeSites",
-      "stars": 2010,
+      "stars": 2009,
       "topics": [
         "awesomesite",
         "awesomesites",
@@ -3091,7 +3091,7 @@
         "website"
       ]
     },
-    "original_repository_sha": "0cc2e76bf134e28caa7c4a40b0c14507c0fc25ca",
+    "original_repository_sha": "4e456ff1b42be2b75a8e8507f9977cadf1016f87",
     "enhanced_repository": "enhansome/enhansome-AwesomeSites",
     "enhanced_repository_description": null,
     "title": "Awesome AwesomeSites with stars"
