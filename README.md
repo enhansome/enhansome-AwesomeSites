@@ -48,7 +48,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/design-next-iphone.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/neal.fun%3Adesign-the-next-iphone) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2024-02-17
+[![](./screenshot/noomobeat.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/other/beat.noomoagency.com) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-12
 
 ## Index
 
@@ -158,4 +158,4 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
