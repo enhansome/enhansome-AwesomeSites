@@ -3069,7 +3069,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:31:36.668Z",
+    "last_updated": "2026-09-27T23:46:05.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the website offline.",
@@ -3081,7 +3081,7 @@
       "open_issues": 3,
       "owner": "ezshine",
       "repo": "AwesomeSites",
-      "stars": 2013,
+      "stars": 2014,
       "topics": [
         "awesomesite",
         "awesomesites",
