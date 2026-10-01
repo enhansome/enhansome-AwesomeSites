@@ -3069,7 +3069,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T00:19:56.467Z",
+    "last_updated": "2026-10-01T00:30:01.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the website offline.",
@@ -3078,7 +3078,7 @@
       "language": "JavaScript",
       "license": "MIT",
       "last_commit": "2026-09-10T18:51:44Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "ezshine",
       "repo": "AwesomeSites",
       "stars": 2014,
